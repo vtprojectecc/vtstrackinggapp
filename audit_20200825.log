@@ -1,0 +1,9 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+Aug 25,2020	20:59:31	127.0.0.1	test	user	login
+Aug 25,2020	21:05:08	127.0.0.1	test	user	logout
+Aug 25,2020	21:05:29	127.0.0.1	shusofttechcorp.co.in	user	login
+Aug 25,2020	21:10:16	127.0.0.1	shusofttechcorp.co.in	user	logout
+Aug 25,2020	21:10:40	127.0.0.1	test	user	login
+Aug 25,2020	21:11:09	127.0.0.1	test	user	logout
+Aug 25,2020	21:13:18	127.0.0.1	test	user	login
+Aug 25,2020	21:13:47	127.0.0.1	test	user	logout
